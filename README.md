@@ -1,6 +1,6 @@
-# test_2
+# Notes/Todos/Reminders
 
-A new Flutter project.
+App to keep your notes, todo lists and reminders. Its still in development. More features coming soon.
 
 ## Getting Started
 
